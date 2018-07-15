@@ -1,13 +1,16 @@
 # Movie trailer display
-	
-		""" Movie Trailer application which display my favourite movies trailers"""
+
+# Description:-
+
+Movie Trailer application which display my favourite movies trailers
+
+# Run
 
 1-Download the zip file
   
 2-Extract this file
   
-3
--Run "entertainment_center.py"
+3-Run "entertainment_center.py"
  
 4-This will open up a page in your web browser
  
