@@ -1,4 +1,4 @@
-################################### Movie trailer display #################################
+# Movie trailer display
 	
 		""" Movie Trailer application which display my favourite movies trailers"""
 
@@ -13,10 +13,8 @@
  
 5-Click on the Movie Poster to see youtube trailer
 
-##################################### What's included #######################################
+# What's included
 
 "entertainment_center.py"----> the main entry to the program
 "fresh_tomatoes.py"----------> The provided web page generator
 "media.py"-------------------> contain the Class Wich contain the Constructor and display function
-
-
